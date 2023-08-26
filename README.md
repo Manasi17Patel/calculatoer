@@ -1,4 +1,4 @@
-# calculatoer
+# calculator
 first = int(input("enter numbe first:"))
 operation =input("enter operation(+,-,*,/,**,//,%):")
 second = int(input("enter number second:"))
@@ -17,4 +17,4 @@ elif operation =="//":
 elif operation =="%":
   print(first%second)
 else:
-  print("inveled input")
+  print("invalid input")

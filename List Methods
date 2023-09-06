@@ -1,0 +1,55 @@
+# list built-in functions and methods
+l1 = [1, 5, 3, 4, 5]
+print(l1)
+
+# append
+l1.append(9)
+print(l1)
+
+# sort
+l1.sort(reverse=True)
+print(l1)
+
+# reverse
+l1.reverse()
+print(l1)
+
+# index
+print(l1.index(5))
+
+# count
+print(l1.count(5))
+
+# copy
+l1.copy
+print(l1)
+
+# insert
+l1.insert(4, 888)
+print(l1)
+
+# extend
+n = [11, 22, 33, 44, 55, 66]
+l1.extend(n)
+print(l1)
+
+# clear
+l1.clear()
+print(l1)
+
+# remove
+# l1.remove(1)
+# print(l1)
+
+# pop
+l1.pop(2)
+print(l1)
+
+# maximum
+print(max(l1))
+
+# minimumu
+print(min(l1))
+
+# sum
+print(sum(l1))

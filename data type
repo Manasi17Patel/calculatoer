@@ -1,0 +1,23 @@
+# list
+l1 = [1, 2, 3, 4, 5]
+print(type(l1))
+
+# dictonary
+dict = {"name":"manasi","enrolment":127}
+print(type(dict))
+
+# set
+set ={1, 2, 3, 4, 5}
+print(type(set))
+
+# tuple
+t1 =(1, 2, 3, 4, 5)
+print(type(t1))
+
+# string
+str = ("mansi")
+print(type(str))
+
+# integer
+int = (3)
+print(type(int))

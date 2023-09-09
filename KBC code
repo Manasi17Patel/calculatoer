@@ -1,0 +1,26 @@
+# quesion 1
+l1 = ["quesion:-Who is win 2022 IPL final"]
+print(l1[0])
+a =input("ans:-")
+if "gujarat titals" in a :
+  print("Ans is Right and you are Win:-10000")
+else:
+  print("Ans is Rong")
+
+# quesion 2
+l1 = ["quesion:-Who is made python language"]
+print(l1[0])
+a =input("ans:-")
+if "Guido van Rossum" in a :
+  print("Ans is Right and you are Win:-50000")
+else:
+  print("Ans is Rong")
+
+# quesion 3
+l1 = ["quesion:-which is old temple in india"]
+print(l1[0])
+a =input("ans:-")
+if "mundeshwari devi temple" in a :
+  print("Ans is Right and you are Win:-100000")
+else:
+  print("Ans is Rong")
